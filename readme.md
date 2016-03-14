@@ -2,7 +2,7 @@
 <img src="http://i.imgur.com/9RtNJuy.png" width="200" align="right">
 BitShares Wallet a beautiful, simple, minimalist UI/UX to the BitShares 2.0 blockchain. This v1.0 will allow the user to send and receive Bitshares and Smartcoins (BTS, bitEUR, bitUSD, BTSATM, etc) with their Android, iPhone or Windows mobile device in portrait or landscape modes. 
 
-[To install the Android version](https://play.google.com/store/apps/details?id=de.bitsharesmunich.wallet "")
+[The app on Google Play Market](https://play.google.com/store/apps/details?id=de.bitsharesmunich.wallet "")
 
 Send any amount.. anywhere.. for just a few cents.. and in only 3 seconds!
  
