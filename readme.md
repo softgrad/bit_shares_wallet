@@ -4,8 +4,6 @@ BitShares Wallet a beautiful, simple, minimalist UI/UX to the BitShares 2.0 bloc
 
 [To install the Android version](https://play.google.com/store/apps/details?id=de.bitsharesmunich.wallet "")
 
-<img src="http://i.imgur.com/https://lh3.googleusercontent.com/cZmXzKr9vpoTA3U_aR9BvpWPyTH_MFYeeIXZkJ8XLd5KoMHLH-J0n_sRh7tdtXk_kD4H=h900-rw" width="100%" align="center">
-
 Send any amount.. anywhere.. for just a few cents.. and in only 3 seconds!
  
 * Works with all Smartcoin enabled Point Of Sale (POS) systems at merchants worldwide 
